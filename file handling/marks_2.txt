@@ -1,0 +1,8 @@
+Mike,20,15
+El,20,20
+Steve
+Lucas,15,10
+Max,10,20
+Selena
+
+
